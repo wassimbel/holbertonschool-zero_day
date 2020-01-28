@@ -1,1 +1,1 @@
-git git tips
+git tips
